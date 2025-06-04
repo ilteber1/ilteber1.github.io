@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/ai-support-saas',
+  basePath: '/ilteber1.github.io',
   images: {
     unoptimized: true,
   },
